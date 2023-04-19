@@ -32,9 +32,3 @@
 
 <p><a href="https://reddit.com/r/sandboxsocialism">Subreddit</a></p>
 <p><em>u/alyxox943</em></p>
-
-<footer>
-
-<p><a href="https://transfem.net">Home site</a></p>
-
-</footer>
