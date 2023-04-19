@@ -1,7 +1,8 @@
-<div>
+<head>
+<title>links!</title>
+</head>
 
- 
-
+<body>
 <div><embed src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1907px-Mastodon_Logotype_%28Simple%29.svg.png" width="5%"></div>
 
 <p><a href="https://social.tchncs.de/@alyx">Mastodon</a></p>
@@ -32,3 +33,5 @@
 
 <p><a href="https://reddit.com/r/sandboxsocialism">Subreddit</a></p>
 <p><em>u/alyxox943</em></p>
+
+</body>
