@@ -8,11 +8,11 @@
 
 ## Repositories:
 
-### [repository.alxcore.org/iso/](http://redirects.transfem.net/97b4700a6e478431fc007fdff5b6395b)
+### [repository.alxcore.org/iso/](/repo/iso/)
 
-### [repository.alxcore.org/games/](http://redirects.transfem.net/9cfa7aefcc61936b70aaec6729329eda)
+### [repository.alxcore.org/games/](/repo/games/)
 
-### [repository.alxcore.org/win32apps/](http://redirects.transfem.net/9c4f88f706dedde3bc0ebb66e34963e5)
+### [repository.alxcore.org/win32apps/](/repo/win32apps/)
 
 ### [/cloud1/keygen/backups](/main/repo/backups/)
 
