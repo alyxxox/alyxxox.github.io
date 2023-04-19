@@ -1,25 +1,5 @@
-## Links:
+# Welcome to transfem.net!
+## I try my best to use minimal javascript and cookies but remember this site is hosted by github, not myself. I recommend something like [noscript](https://addons.mozilla.org/en-US/firefox/addon/noscript/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) to take control over what is executed in your browser.
 
-### [Discord server](https://alxcore.org/discord)
-
-## Node hosting:
-
-### [Windows utility script](https://windows.alxcore.org)
-
-## Repositories:
-
-### [repository.alxcore.org/iso/](/repo/iso/)
-
-### [repository.alxcore.org/games/](/repo/games/)
-
-### [repository.alxcore.org/win32apps/](/repo/win32apps/)
-
-### [/cloud1/keygen/backups](/main/repo/backups/)
-
-## Contact info:
-
-#### email@alxcore.org
-
-#### (646)-912-8702
-
-(only active from 11am-12am)
+## If you are ready to proceed, please click the link below.
+# [Continue...](/main/)
