@@ -6,7 +6,7 @@ body {
   margin: auto;
 }
 
-#wikiframe * {
-  width: 90%;
+#wikiframe {
+  width: 100%;
   padding: 5px;
 }
