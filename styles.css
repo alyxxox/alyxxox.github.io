@@ -5,3 +5,8 @@ body {
   padding: 20px;
   margin: auto;
 }
+
+#wikiframe * {
+  width: 90%;
+  padding: 5px;
+}
